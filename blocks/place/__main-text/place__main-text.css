@@ -1,0 +1,9 @@
+.place__main-text {
+    max-width: 100%;
+}
+
+@media(max-width: 767px) {
+    .place__main-text {
+        padding: 0 16px;
+    }
+}

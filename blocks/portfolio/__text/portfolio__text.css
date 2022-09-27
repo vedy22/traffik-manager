@@ -1,0 +1,9 @@
+.portfolio__text {
+    max-width: 800px;
+}
+
+@media(max-width: 767px) {
+    .portfolio__text {
+        width: 100%;
+    }
+}

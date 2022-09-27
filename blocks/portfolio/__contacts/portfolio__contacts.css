@@ -1,0 +1,12 @@
+.portfolio__contacts {
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media(max-width: 767px) {
+    .portfolio__contacts {
+        width: 100%;
+
+    }
+}

@@ -1,0 +1,17 @@
+.portfolio__name {
+    max-width: 100%;
+    font-size: 42px;
+    line-height: 120%;
+    font-weight: 400;
+    color: #000;
+    text-align: center;
+    margin: 0 auto;
+    padding: 12px 12px;
+}
+
+@media(max-width: 767px) {
+    .portfolio__name {
+        font-size: 36px;
+        line-height: 125%;
+    }
+}

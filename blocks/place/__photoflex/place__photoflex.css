@@ -1,0 +1,19 @@
+.place__photoflex {
+    max-width: 900px;
+    padding: 0 10px 30px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    object-fit: cover;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    list-style-type: none;
+}
+
+@media(max-width: 1010px) {
+    .place__photoflex {
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+    }
+}
