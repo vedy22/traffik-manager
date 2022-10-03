@@ -28,6 +28,7 @@
 @import url(../blocks/place/__photo/place__photo.css);
 @import url(../blocks/place/__photoad/place__photoad.css);
 @import url(../blocks/place/__photoflex/place__photoflex.css);
+@import url(../blocks/place/__photoadd/place__photoadd.css);
 @import url(../blocks/portfolio/portfolio.css);
 @import url(../blocks/portfolio/__contact/portfolio__contact.css);
 @import url(../blocks/portfolio/__contacts/portfolio__contacts.css);
